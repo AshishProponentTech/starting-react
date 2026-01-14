@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/starter-react//_next/:path+",
-        "destination": "/starter-react/_next/:path+"
+        "source": "/starting-react//_next/:path+",
+        "destination": "/starting-react/_next/:path+"
       }
     ],
     "fallback": []
